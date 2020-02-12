@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\nickmuffin2p1.js">
+    <Files>
+      <File FileName="Assets\nickmuffin2p1.js" Line="3" Column="16" />
+      <File FileName="Assets\nickmuffin2.js" Line="1" Column="1" />
+      <File FileName="Assets\teleporter.js" Line="1" Column="1" />
+      <File FileName="Assets\nickmuffin1.js" Line="1" Column="1" />
+      <File FileName="Assets\stageup1.js" Line="1" Column="1" />
+      <File FileName="Assets\runbutton.js" Line="1" Column="1" />
+      <File FileName="Assets\mainherolvl11.js" Line="1" Column="1" />
+      <File FileName="Assets\nextlevel.js" Line="1" Column="1" />
+      <File FileName="Assets\NameCreator.js" Line="1" Column="1" />
+      <File FileName="Assets\textoff.js" Line="1" Column="1" />
+      <File FileName="Assets\T2.shader" Line="1" Column="1" />
+      <File FileName="Assets\dirigeablespec.js" Line="1" Column="1" />
+      <File FileName="Assets\lopastdirijabel.js" Line="1" Column="1" />
+      <File FileName="Assets\samoliotik.js" Line="1" Column="1" />
+      <File FileName="Assets\starttomove.js" Line="1" Column="1" />
+      <File FileName="Assets\firstphrace.js" Line="1" Column="1" />
+      <File FileName="Assets\stopwhenspeak.js" Line="1" Column="1" />
+      <File FileName="Assets\getpos.js" Line="1" Column="1" />
+      <File FileName="Assets\blackdown.js" Line="1" Column="1" />
+      <File FileName="..\Endless Defense\Assets\watermove.js" Line="1" Column="1" />
+      <File FileName="..\Endless Defense\Assets\EnemyMove.js" Line="1" Column="1" />
+      <File FileName="Assets\firsttextdestroy.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
